@@ -9,7 +9,7 @@ kailreaver  is a WPS brute force attack tool.Its build on python or c program.It
 
 ### Setup ###
 
-chmod +x install.sh
+sudo chmod +x install.sh
 <br>
 sudo  ./install.sh
 
@@ -26,5 +26,5 @@ sudo python kalireaver.py
 Sometime this tool does not work.
 
 
-
+### Kali Linux ###
 
