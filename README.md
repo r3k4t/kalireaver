@@ -4,7 +4,7 @@
 <h6>Author : RKT </h6>
 
 
-kailreaver  is a WPS brute force attack tool.Its build on python or c program.It can idenitify wireless password very fast.
+kailreaver  is a WPS brute force attack tool.Its build on python or shell program.It can idenitify wireless password very fast.
 
 
 ### Setup ###
