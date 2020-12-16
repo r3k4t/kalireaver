@@ -16,7 +16,7 @@ os.system("airodump-ng {}".format(interface))
 print
 print "Press Ctrl + c"
 print
-os.system("figlet -f standard PyReaver")
+os.system("figlet -f standard Kalireaver")
 print "Author : Rahat Khan Tusar(RKT)"
 print 
 print "Github : https://github.com/r3k4t"
